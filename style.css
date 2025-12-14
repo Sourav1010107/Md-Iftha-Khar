@@ -1,0 +1,73 @@
+body{
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 16px;
+            color: black;
+            background-color: ivory;
+            margin: 0px;
+            padding: 10px;
+            border: none;
+        }
+        .container-1{
+            background-color: beige;
+            height: 200px;
+        }
+        #container-2{
+            height: 550px;
+            position: relative;
+            left: 370px;
+
+        }
+        .pro-pic{
+            position: absolute;
+            top: 30px;
+            left: 200px;
+        }
+        .intro{
+            position: relative;
+            left: 370px;
+            top: 30px;
+        }
+        .topic-heading{
+            font-size: 150%;
+        }
+        #name{
+            font-size: 150%;
+        }
+        #cv{
+            font-size: 100%;
+            color: white;
+            background-color: #1B5E20;
+            border: .5px solid #1B5E20;
+            border-radius: 3px;
+            padding: 2px;
+
+        }
+        #cv:hover{
+            background-color: black;
+            border: black;
+        }
+        a{
+          color: black;
+        }
+        .edu{
+            position: absolute;
+            left: 450px;
+            top: 20px;
+        }
+        td{
+            background-color: beige;
+            border-radius: 3px;
+            margin: 30px;
+            padding: 5px;
+        }
+        #bsc{
+            background-color: beige;
+            border-radius: 3px;
+            height: auto;
+            width: 350px;
+        }
+        #work{
+            background-color: beige;
+            height: auto;
+            width: 700px;
+        }
