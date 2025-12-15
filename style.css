@@ -15,7 +15,7 @@ body{
         }
          .nav{
             position: relative;
-            left: 700px;
+            left: 500px;
             font-family: 'Courier New', Courier, monospace;
             font-size: 18px;
             padding: 0px;
@@ -85,6 +85,7 @@ body{
             width: 700px;
 
         }
+
 
 
 
