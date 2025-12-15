@@ -15,6 +15,7 @@ body{
         }
          .nav{
             position: relative;
+            display: flex;
             left: 500px;
             font-family: 'Courier New', Courier, monospace;
             font-size: 18px;
@@ -85,6 +86,7 @@ body{
             width: 700px;
 
         }
+
 
 
 
