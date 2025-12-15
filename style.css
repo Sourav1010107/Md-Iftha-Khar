@@ -10,6 +10,8 @@ body{
         .container-1{
             background-color: beige;
             height: 200px;
+            width: 220px;
+                    
         }
          .nav{
             position: relative;
@@ -83,3 +85,4 @@ body{
             width: 700px;
 
         }
+
