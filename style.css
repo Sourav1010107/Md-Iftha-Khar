@@ -10,7 +10,7 @@ body{
         .container-1{
             background-color: ivory;
             height: 200px;
-            width: 220px;
+            width: auto;
                     
         }
          .nav{
@@ -86,6 +86,7 @@ body{
             width: 700px;
 
         }
+
 
 
 
