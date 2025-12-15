@@ -33,7 +33,7 @@ body{
         .pro-pic{
             position: absolute;
             top: 30px;
-            left: 200px;
+            left: 100px;
         }
         .intro{
             position: relative;
@@ -85,4 +85,5 @@ body{
             width: 700px;
 
         }
+
 
